@@ -3,6 +3,28 @@
 
 /** Ionic CSS Variables **/
 :root {
+  --ion-background-color: #04063c;
+  --ion-text-color: #2b42a6;
+
+  --ion-toolbar-background: #b6e5fc;
+  --ion-tab-bar-background: #04063c;
+
+  --ion-item-background: #2b42a6;
+
+  .nahloh {
+    background-color: #2b42a6;
+    font-size: 0.7em !important;
+    color: #b6e5fc;
+  }
+
+  .teksCol {
+    color: #b6e5fc;
+  }
+
+  .itemNah {
+    color: #b6e5fc;
+  }
+
   /** primary **/
   --ion-color-primary: #3880ff;
   --ion-color-primary-rgb: 56, 128, 255;
@@ -226,3 +248,4 @@
     --ion-tab-bar-background: #1f1f1f;
   }
 }
+
